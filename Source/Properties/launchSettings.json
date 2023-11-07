@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "BasicTemplate": {
+      "commandName": "Executable",
+      "workingDirectory": "C:/Users/Homel/Documents/Flax Projects/FlaxSamples/BasicTemplate",
+      "executablePath": "C:/Program Files (x86)/Flax/Flax_1.7/Binaries/Editor/Win64/Development/FlaxEditor.exe",
+      "commandLineArgs": "-project \"C:/Users/Homel/Documents/Flax Projects/FlaxSamples/BasicTemplate\"",
+      "nativeDebugging": false
+    }
+  }
+}
